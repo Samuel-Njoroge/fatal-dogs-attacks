@@ -11,6 +11,10 @@ This dataset https://www.kaggle.com/datasets/kabhishm/fatal-dog-attacks-in-the-u
 By using Power BI, we will create interactive reports and visualizations that enable us to explore the data in detail and gain a deeper understanding of the issue. This project can be valuable for policymakers, animal control agencies, and the general public in improving dog safety and preventing future incidents.
 
 ## Skills and concepts
+* Data Cleaning
+* Data Transformation
+* Data Modelling
+* Data Visualization
 
 ## Modelling
 
