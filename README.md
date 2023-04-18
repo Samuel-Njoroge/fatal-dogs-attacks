@@ -22,4 +22,9 @@ By using Power BI, we will create interactive reports and visualizations that en
 
 ## Analysis
 
-## Conclusion & Recommendations
+## Conclusion
+
+* The pitbull launched the highest number of attacks.
+* The youngest victim was 8 days old.
+* 
+## Recommendations
