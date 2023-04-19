@@ -19,12 +19,23 @@ By using Power BI, we will create interactive reports and visualizations that en
 ## Modelling
 
 ## Visualization
+![fatal dogs attacks_dashboard](https://user-images.githubusercontent.com/108589210/233085611-248feefd-a869-4801-b337-ecdc19fa7af9.png)
 
 ## Analysis
 
 ## Conclusion
 
-* The pitbull launched the highest number of attacks.
-* The youngest victim was 8 days old.
-* 
+* The Pitbull had the highest number of attacks.
+* The old (people > 60 years) were the most affected group of people.
+* The youngest victim was an 8-year old baby.
+* The highest number of attacks were launched by the family dogs.
+* The second highest number of attacks were launched by a pack of dogs. (group of > 3 dogs).
+* The  highest number of reported cases were between  February 10 and  August 10 (2020).
+* Stray dogs launched attacks on pedestrians  on the streets. 
+
 ## Recommendations
+
+* The Pitbull dogs need extra care to reduce attacks.
+* The old people should not be left alone at home with their dogs.
+* Everyone needs to handle their dogs carefully to avoid cases on attacks by neighbors' dogs.   
+* The US  Department of Agriculture – Animal and Plant Inspection Service (USDA-APHIS) needs control on the stray dogs on the streets .
