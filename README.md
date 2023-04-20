@@ -23,6 +23,8 @@ By using Power BI, we will create interactive reports and visualizations that en
 ![fatal dogs attacks_dashboard](https://user-images.githubusercontent.com/108589210/233085611-248feefd-a869-4801-b337-ecdc19fa7af9.png)
 
 ## Analysis
+* The dogs' attacks that happened in the victims' homes were launched by the family dog.
+* The old and the infants were the most affected groups of people.
 
 ## Conclusion
 
