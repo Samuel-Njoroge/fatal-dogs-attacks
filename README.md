@@ -17,9 +17,13 @@ By using Power BI, we will create interactive reports and visualizations that en
 * Data Visualization
 
 ## Modelling
+Tool used : Power BI
+
 ![modell](https://github.com/Samuel-Njoroge/fatal-dogs-attacks/blob/main/model.png)
 
 ## Visualization
+Tool used : Power BI
+
 ![fatal dogs attacks_dashboard](https://user-images.githubusercontent.com/108589210/233085611-248feefd-a869-4801-b337-ecdc19fa7af9.png)
 
 ## Analysis
